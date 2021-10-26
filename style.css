@@ -1,0 +1,77 @@
+h1 {
+    color: red;
+    color: greenchartreuse !important;
+    color: blue;
+}
+/* Css kommentaar */
+
+.klass {
+    /* Annab 10 punkti*/
+}
+#id {
+    /* Annab 100 */
+}
+
+/* Inline style anab 1000p */
+/* !importamt annab 10000p */
+
+
+
+header {
+    .page-header {
+        padding-top:0px;
+        margin: 0px 0 0px;
+        vertical-align: top;
+      };
+}
+
+nav {
+    /* Navbar container */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+  }
+  }
+    background-color: rgb(201, 192, 192);
+}
+
+section {
+    background-color: lightblue;
+    width: 60%;
+    float: left;
+
+}
+
+article {
+    background-color: rgb(81, 81, 156);
+    margin: 15px;
+    padding: 15px;
+}
+
+aside {
+    background-color: orange;
+    width: 40%;
+    float: right;
+    background-image: url(https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=49ed3252c0b2ffb49cf8b508892e452d);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+footer {
+    background-color: rgb(108, 110, 104);
+    width: 100%;
+    display: flex; 
+    justify-content: center;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+span {
+    width: 16px;
+    color: white;
+}
